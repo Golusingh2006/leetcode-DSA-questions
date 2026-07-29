@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
