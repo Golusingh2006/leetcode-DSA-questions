@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0189-rotate-array) |
 ## Hash Table
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0151-reverse-words-in-a-string) |
 ## Binary Search
 |  |
