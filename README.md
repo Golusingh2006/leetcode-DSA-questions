@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0274-h-index) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0219-contains-duplicate-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
