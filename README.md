@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
