@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0274-h-index) |
 | [0485-max-consecutive-ones](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0645-set-mismatch) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/1470-shuffle-the-array) |
 ## Two Pointers
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0645-set-mismatch) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/1796-second-largest-digit-in-a-string) |
 ## Divide and Conquer
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0274-h-index) |
+| [0645-set-mismatch](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0645-set-mismatch) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
@@ -105,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0796-rotate-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
