@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0242-valid-anagram) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/1796-second-largest-digit-in-a-string) |
 ## Divide and Conquer
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0274-h-index) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0242-valid-anagram) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/1796-second-largest-digit-in-a-string) |
 ## Binary Search
 |  |
