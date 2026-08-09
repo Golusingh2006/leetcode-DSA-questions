@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0274-h-index) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/1470-shuffle-the-array) |
 ## Two Pointers
 |  |
 | ------- |
