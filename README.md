@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0189-rotate-array) |
@@ -112,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0645-set-mismatch) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
