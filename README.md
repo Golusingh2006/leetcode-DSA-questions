@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0645-set-mismatch) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/Golusingh2006/leetcode-DSA-questions/tree/master/0349-intersection-of-two-arrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
